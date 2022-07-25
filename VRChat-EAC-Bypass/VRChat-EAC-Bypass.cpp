@@ -4,6 +4,7 @@
 
 int main()
 {
+    //This is obviously a joke lmao
     SetConsoleTitleA("Real VRChat EAC Bypass By Scrim");
     std::cout << "Loading...\n";
     Sleep(1500);
