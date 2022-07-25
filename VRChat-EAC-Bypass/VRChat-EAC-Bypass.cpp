@@ -4,7 +4,7 @@
 
 int main()
 {
-    //This is obviously a joke lmao
+    //This is obviously a rickroll it doesn't bypass EAC
     SetConsoleTitleA("Real VRChat EAC Bypass By Scrim");
     std::cout << "Loading...\n";
     Sleep(1500);
